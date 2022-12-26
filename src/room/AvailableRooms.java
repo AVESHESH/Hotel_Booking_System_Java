@@ -32,6 +32,7 @@ public class AvailableRooms {
 	 JButton btn;
 	 JScrollPane scrollPane;
 	 DefaultTableModel modeltable;
+	 
 	public AvailableRooms() {
 		frame=new JFrame("Available Rooms");
 		frame.setSize(450,400);
